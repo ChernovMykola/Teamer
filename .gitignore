@@ -1,2 +1,4 @@
 # Environments
-ops/
+ops/environment
+.env
+.idea
